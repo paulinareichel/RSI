@@ -1,0 +1,1 @@
+java-classpath .;"D:\JADE\jade\lib\jade.jar";"Z:\wspolny\rojek\jade\lib\jadeTools.jar";"D:\JADE\jade\src\jade\mtp\iiop";"D:\JADE\jade\src\jade\mtp\http";"D:\JADE\jade\lib\commons-codec\commons-codec-1.3.jar";"D:\JADE\jade\src" %1 %2 %3 %4 %5 %6 %7 %8 %9
